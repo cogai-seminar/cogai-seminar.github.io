@@ -1,12 +1,12 @@
 # Usign the Clean Blog theme
 
-title: The DHAI Seminar
-author: dhai-seminar
-email: gabriel.peyre@ens.fr
-description: When Digital Humanities Meet Artificial Intelligence
+title: The CogML Seminar
+author: cogml-seminar
+email: rachid.riad@inria.fr
+description: When Cognitive Sciences Meet Artificial Intelligence
 baseurl: ""
-url: "https://dhai-seminar.github.io/"
-github_username:  dhai-seminar
+url: "https://cogml-seminar.github.io/"
+github_username: cogml-seminar
 
 # Build settings
 markdown: kramdown

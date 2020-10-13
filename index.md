@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "The DHAI Seminar"
-description: "When Digital Humanities Meet Artificial Intelligence"
+title: "The CogML Seminar"
+description: "When Cognitive Sciences Meet Artificial Intelligence"
 header-img: "img/ens-snow.jpg"
 ---
 
-Welcome to the Digital Humanities / Artificial Intelligence Seminar!
+Welcome to the Cognitive Science / Artificial Intelligence Seminar!
 
 
 
@@ -42,14 +42,11 @@ Next seminars
 Scientific Committee
 ============================
 
-- [Mathieu Aubry](http://imagine.enpc.fr/~aubrym/)
-- [Jean-Baptiste Camps](http://www.chartes.psl.eu/fr/jean-baptiste-camps)
-- [Matthieu Husson](https://syrte.obspm.fr/spip/science/histoire/membres-de-l-equipe/article/matthieu-husson)
-- [Béatrice Joyeux-Prunel](https://artlas.huma-num.fr/en/staff-member/beatrice-joyeux-prunel-2/)
-- [Gabriel Peyré](http://www.gpeyre.com)
-- [Thierry Poibeau](https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/)
-- [Léa Saint-Raymond](https://u-paris10.academia.edu/LéaSaintRaymond)
-- [Galla Topalian](https://univ-paris1.academia.edu/GallaTopalian)
+- [Justine Cassell](http://www.justinecassell.com/)
+- [Emmanuel Dupoux](http://www.lscp.net/persons/dupoux/indexfr.html)
+- [Jean-Remi King](https://kingjr.github.io/)
+- [Srdjan Ostojic](https://lnc2.dec.ens.fr/en/member/655/srdjan-ostojic)
+- [Rachid Riad](https://rachine.github.io/)
 
 
 Supported by

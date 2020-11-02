@@ -12,13 +12,15 @@ Welcome to the Cognitive Science / Artificial Intelligence Seminar!
 Goal
 ============================
 
-Fostered by the creation of new algorithms, computation power and the development of deep learning techniques, Artificial Intelligence needs constantly to confront new issues and data sets in order to deepen its methodologies and increase its range of scientific applications.
-Digital humanities, developing digital science methodologies in the study of humanities and using the critical approaches of humanities in the analysis of the contemporary "digital revolutions", are constantly in search of new tools to explore more and more complex and diversified data sets.
+Inspired by the creation of new algorithms, increased computing power and the development of deep learning techniques, Artificial Intelligence has developed ever more powerful technical systems, including robots, conversational agents and brain-computer interfaces. At the same time, inspired by those same advances in Machine Learning and AI, the field of Cognitive Science has made leaps and bounds in understanding and modeling human behavior, including human motion, human language, and the human brain.
+It is too rare today it that the fields of AI and CogSci join in a dialogue to together develop better methodologies and produce better results, both in understanding human behavior, and in building systems that interact with humans.
+Example of potential synergies:
+- How can we use AI systems to better understand Human behavior through automatic and reliable measurements?
+- Can we take inspiration from Children and construct universal artificial learner of language, physics, morale?
+- What are the next steps to solve for Artificial Intelligence systems?
 
-The coupling AI/DH is globally emerging as one key interface for both domains and will probably prove to be a deep transformative trend in tomorrow intellectual world.
 
-The ambition of this seminar is to be one of the places where this coupling is shaped, fostered and analyzed. It intends to offer a forum where both communities, understood in a very inclusive way, exchange around emerging issues, ongoing projects, and past experiences in order to build a common language, a shared space, and to encourage innovative cooperation on the long run.
-
+This seminar aims to open that dialogue between the fields of Cognitive Science and Artificial Intelligence. Speakers may come from one field or the other, but all will use this opportunity to reflect on how a pairing between the two fields can be stronger than the sum of the parts. We hope you will join us in building a common language, and a common understanding of the grand societal challenges we face today, and that together we can conquer.
 Past seminars
 ===========================
 

@@ -1,2 +1,2 @@
-# CogAI-seminar.github.io
+# CogML-seminar.github.io
 Web site for the seminar.

@@ -2,7 +2,7 @@
 layout: page
 title: "The CogAI Seminar"
 description: "When Cognitive Sciences Meet Artificial Intelligence"
-header-img: "img/ens-snow.jpg"
+header-img: "img/ens_spring.jpg"
 ---
 
 Welcome to the Cognitive Science / Artificial Intelligence Seminar!
@@ -52,8 +52,7 @@ Supported by
 
 
 <p align="center">
-<!--
-<a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a> -->
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.ens.fr">
 <img height="80" src="img/logo-ens.jpg"/></a>

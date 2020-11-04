@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The CogML Seminar"
+title: "The CogAI Seminar"
 description: "When Cognitive Sciences Meet Artificial Intelligence"
 header-img: "img/ens-snow.jpg"
 ---
@@ -21,10 +21,10 @@ Example of potential synergies:
 
 
 This seminar aims to open that dialogue between the fields of Cognitive Science and Artificial Intelligence. Speakers may come from one field or the other, but all will use this opportunity to reflect on how a pairing between the two fields can be stronger than the sum of the parts. We hope you will join us in building a common language, and a common understanding of the grand societal challenges we face today, and that together we can conquer.
-Past seminars
+<!-- Past seminars
 ===========================
 
-You can access [here the list of past seminars](../past/).
+You can access [here the list of past seminars](../past/). -->
 
 
 Next seminars
@@ -56,8 +56,8 @@ Supported by
 
 
 <p align="center">
-
-<a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a>
+<!-- 
+<a href="http://www.enpc.fr/"><img height="90" src="http://www.enpc.fr/sites/all/themes/enpc/images/logo.svg"/></a> -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.ens.fr">
 <img height="80" src="img/logo-ens.jpg"/></a>

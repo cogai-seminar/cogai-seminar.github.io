@@ -2,7 +2,7 @@
 layout: page
 title: "The CogAI Seminar"
 description: "When Cognitive Sciences Meet Artificial Intelligence"
-header-img: "img/ens_spring.jpg"
+header-img: "img/ens_spring.png"
 ---
 
 Welcome to the Cognitive Science / Artificial Intelligence Seminar!

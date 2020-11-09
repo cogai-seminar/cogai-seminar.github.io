@@ -10,11 +10,23 @@
   slides: nothing
   video: nothing
 
+
+- speaker: "Alexis Dubreuil"
+  date: Jan 21, 2020
+  time: 9:00-10:30
+  room: "---"
+  affiliation: "ENS Département D'Études Cognitives"
+  url: ""
+  title: "Mechanics of cognitive processes."
+  abstract: " Cognitive abilities arise from the interactions of neurons organized in structured networks. Understanding the emergence of cognitive abilities requires to bridge two gaps: the one between behavioral variables and network’s dynamics, and the one between dynamics and structure of networks. Theoretical investigations have been able to propose such mappings for elementary cognitive processes but it has remained difficult to come up with network structures able to implement more elaborated cognitive processes. To overcome this difficulty it has been proposed to take advantage of machine learning algorithms to build network’s structure that implement behaviors of interest. However these networks remain high-dimensional non-linear systems that are often referred to as ‘black-boxes’. I will start by presenting the approach I have developed with Srdjan Ostojic that allows to fully reverse-engineer trained networks and bridge the gaps between behavior, network’s dynamics and network’s structure. I will then illustrate this approach by focusing on a context-dependent decision making task. Finally I will briefly discuss preliminary attempts in applying this approach to characterize neural network mechanisms underlying the production of structured sequences."
+  slides: nothing
+  video: nothing
+
 - speaker: "Mathilde Caron"
   date: Jan 21, 2020
   time: 9:00-10:30
   room: "---"
-  affiliation: "Télécom ParisTech"
+  affiliation: "INRIA/Facebook AI research"
   url: ""
   title: "Learning visual représentations without labels"
   abstract: nothing
@@ -26,7 +38,7 @@
   date: Dec 10, 2019
   time: 9:00-10:30
   room: "---"
-  affiliation: "Télécom ParisTech"
+  affiliation: "ENS Département D'Études Cognitives"
   url: ""
   title: "Neural specialization for speech and music revealed by cross-species comparison"
   abstract: nothing

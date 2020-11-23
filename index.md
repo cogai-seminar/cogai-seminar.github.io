@@ -63,3 +63,6 @@ Supported by
 
 
 </p>
+
+Original theme for this website is from Gabriel Peyré and the DHAI seminar.
+It can be found [here](https://dhai-seminar.github.io/).

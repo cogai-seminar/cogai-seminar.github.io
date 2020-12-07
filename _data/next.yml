@@ -1,22 +1,22 @@
 
-
-- speaker: "The CogAI team"
-  date: December 8, 2020
-  time: 16:00-17:30 (Paris Time)
-  room: "TBA"
-  affiliation: "CogAI"
-  url: "https://cogai-seminar.github.io/"
-  title: "Introduction: When Cognitive Sciences and Artificial Intelligence Meet."
-  abstract: "Joint presentation of the CogAI team, which serves as an introduction to this first season of CogAI."
-  slides: nothing
-  video: nothing
-
 - speaker: "Aida Nematzadeh"
   date: January 12, 2021
-  time: 15:00-16:30 (Paris Time)
+  time: 16:00-17:00 (Paris Time)
   room: "TBA"
   affiliation: "Deepmind"
   url: "http://www.aidanematzadeh.me/"
+  title: "TBA"
+  abstract: "TBA"
+  slides: nothing
+  video: nothing
+
+
+ - speaker: "Raquel Fernández"
+  date: February 9, 2021
+  time: 16:00-17:00 (Paris Time)
+  room: "TBA"
+  affiliation: "University of Amsterdam, Institute for Logic, Language and Computation"
+  url: "https://staff.fnwi.uva.nl/r.fernandezrovira/"
   title: "TBA"
   abstract: "TBA"
   slides: nothing

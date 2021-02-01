@@ -1,29 +1,19 @@
 
-- speaker: "Aida Nematzadeh"
-  date: January 12, 2021
-  time: 16:00-17:30 (Paris Time)
-  room: "TBA"
-  affiliation: "Deepmind"
-  url: "http://www.aidanematzadeh.me/"
-  title: "Categories and Instances in Human Cognition and AI"
-  abstract: "Turning regularities into categories is an important aspect of human cognition. We can make generalizations about new events and entities based on the categories we think they belong to. Structuring knowledge into categories also facilitate search and retrieval. Moreover, remembering specific instances of categories (e.g., the first day at a job) is crucial for how we process information. Similarly, artificial intelligence systems require the capacity to represent and reason about both categories and instances. In this talk, I describe two tasks inspired by experiments in developmental psychology for evaluating this capacity. The first task, novel noun generalization, examines whether our existing models can determine the correct level of a hierarchical taxonomy (e.g., dog or animal) a novel word refers to. The second task evaluates models' ability to represent different states of the world (i.e., the position of an item). I discuss how current models perform on these tasks and what inductive biases can help models succeed."
-  slides: nothing
-  video: nothing
 
 - speaker: "Raquel Fernández"
   date: February 9, 2021
-  time: 16:00-17:30 (Paris Time)
-  room: "TBA"
+  time: 16:00-17:00 (Paris Time)
+  room: "https://global.gotomeeting.com/join/765474861"
   affiliation: "University of Amsterdam, Institute for Logic, Language and Computation"
   url: "https://staff.fnwi.uva.nl/r.fernandezrovira/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "Individual and social processes in image description generation"
+  abstract: "Most language use takes place in situated environments where visual perception goes hand in hand with language processing. I will discuss some recent projects by my research group related to modelling language generation in visually grounded contexts using state-of-the-art AI techniques. I will first focus on individual cognitive processes and present a model of image description generation that exploits information from human gaze patterns recorded during language production. In the second part of the talk, I will move on to two-person dialogue setups. I will discuss our recent work on generating referring descriptions that are grounded in the conversational and visual context. I argue that computational models of language generation can help us to better understand the cognitive processes underpinning these abilities in humans, as well as contribute to more robust language technology tools and to user adaptation in dialogue systems."
   slides: nothing
   video: nothing
 
 - speaker: "Jean-François Bonnefon"
   date: March 9, 2021
-  time: 16:00-17:30 (Paris Time)
+  time: 16:00-17:00 (Paris Time)
   room: "TBA"
   affiliation: "Toulouse School of Economics"
   url: "https://jfbonnefon.github.io/"
@@ -35,7 +25,7 @@
 
 - speaker: "Kelsey Allen"
   date: April 13, 2021
-  time: 16:00-17:30 (Paris Time)
+  time: 16:00-17:00 (Paris Time)
   room: "TBA"
   affiliation: "MIT, Computational Cognitive Science group"
   url: "https://web.mit.edu/krallen/www/"

@@ -1,3 +1,15 @@
+
+- speaker: "Raquel Fernández"
+  date: February 9, 2021
+  time: 16:00-17:00 (Paris Time)
+  room: "https://global.gotomeeting.com/join/765474861"
+  affiliation: "University of Amsterdam, Institute for Logic, Language and Computation"
+  url: "https://staff.fnwi.uva.nl/r.fernandezrovira/"
+  title: "Individual and social processes in image description generation"
+  abstract: "Most language use takes place in situated environments where visual perception goes hand in hand with language processing. I will discuss some recent projects by my research group related to modelling language generation in visually grounded contexts using state-of-the-art AI techniques. I will first focus on individual cognitive processes and present a model of image description generation that exploits information from human gaze patterns recorded during language production. In the second part of the talk, I will move on to two-person dialogue setups. I will discuss our recent work on generating referring descriptions that are grounded in the conversational and visual context. I argue that computational models of language generation can help us to better understand the cognitive processes underpinning these abilities in humans, as well as contribute to more robust language technology tools and to user adaptation in dialogue systems."
+  slides: nothing
+  video: nothing
+
 - speaker: "Aida Nematzadeh"
   date: January 12, 2021
   time: 16:00-17:00 (Paris Time)

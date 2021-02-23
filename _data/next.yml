@@ -14,11 +14,11 @@
 - speaker: "Jean-François Bonnefon"
   date: March 9, 2021
   time: 16:00-17:00 (Paris Time)
-  room: "TBA"
+  room: "https://global.gotomeeting.com/join/193192421"
   affiliation: "Toulouse School of Economics"
   url: "https://jfbonnefon.github.io/"
-  title: "TBA"
-  abstract: "TBA"
+  title: "The Moral Machine Experiment"
+  abstract: "With the rapid development of artificial intelligence have come concerns about how machines will make moral decisions, and the major challenge of quantifying societal expectations about the ethical principles that should guide machine behaviour. To address this challenge, we deployed the Moral Machine, an online experimental platform designed to explore the moral dilemmas faced by autonomous vehicles. This platform gathered 40 million decisions in ten languages from millions of people in 233 countries and territories. I will describe the results of this experiment, paying special attention to cross-cultural variations in ethical preferences. I will discuss the role that these data can play to inform public policies about the programming of autonomous vehicles."
   slides: nothing
   video: nothing
 

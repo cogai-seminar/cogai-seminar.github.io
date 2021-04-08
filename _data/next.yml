@@ -1,25 +1,15 @@
 
 
 
-- speaker: "Jean-François Bonnefon"
-  date: March 9, 2021
-  time: 16:00-17:00 (Paris Time)
-  room: "https://global.gotomeeting.com/join/193192421"
-  affiliation: "Toulouse School of Economics"
-  url: "https://jfbonnefon.github.io/"
-  title: "The Moral Machine Experiment"
-  abstract: "With the rapid development of artificial intelligence have come concerns about how machines will make moral decisions, and the major challenge of quantifying societal expectations about the ethical principles that should guide machine behaviour. To address this challenge, we deployed the Moral Machine, an online experimental platform designed to explore the moral dilemmas faced by autonomous vehicles. This platform gathered 40 million decisions in ten languages from millions of people in 233 countries and territories. I will describe the results of this experiment, paying special attention to cross-cultural variations in ethical preferences. I will discuss the role that these data can play to inform public policies about the programming of autonomous vehicles."
-  slides: nothing
-  video: nothing
 
 
 - speaker: "Kelsey Allen"
   date: April 13, 2021
   time: 16:00-17:00 (Paris Time)
-  room: "TBA"
+  room: "https://global.gotomeeting.com/join/784702589"
   affiliation: "MIT, Computational Cognitive Science group"
   url: "https://web.mit.edu/krallen/www/"
-  title: "TBA"
-  abstract: "TBA"
+  title: " Towards a recipe for physical reasoning in humans and machines"
+  abstract: "The world is structured in countless ways. When cognitive and machine models respect these structures, by factorizing their modules and parameters, they can achieve remarkable accuracy and generalization. In this talk, I will discuss our work investigating the factorizations of objects, relations, and physics in both humans and machines. Focusing on problems in physical reasoning including construction and tool use, I will show how to harness object and relational structure in the form of graph networks and probabilistic programs to improve machine generalization and explain how people can rapidly acquire new tool-using strategies, like the notion of a catapult, from just a handful of experiences. By taking better advantage of problem structure, and combining it with general-purpose methods for statistical learning, we can develop more robust and data-efficient machine agents, and better explain how humans learn so much from so little."
   slides: nothing
   video: nothing
